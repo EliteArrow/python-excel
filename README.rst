@@ -37,4 +37,4 @@ From the command line, this will show the first, second and last rows of each sh
 
 .. code-block:: bash
 
-    python PYDIR/scripts/runxlrd.py 3rows *blah*.xls
+    python PYDIR/scripts/runxlrd.py 3rows *file_title*.xls
