@@ -6,7 +6,7 @@ files in the historical ``.xls`` format.
 .. warning::
 
   This library will no longer read anything other than ``.xls`` files. For
-  alternatives that read newer file formats, please see http://www.python-excel.org/.
+  alternatives that read newer file formats
 
 The following are also not supported but will safely and reliably be ignored:
 
