@@ -38,3 +38,11 @@ From the command line, this will show the first, second and last rows of each sh
 .. code-block:: bash
 
     python PYDIR/scripts/runxlrd.py 3rows *file_title*.xls
+    
+<b> Details </b>    
+Handling of Unicode
+Dates in Excel spreadsheets
+Named references, constants, formulas, and macros
+Formatting information in Excel Spreadsheets
+Loading worksheets on demand
+API Reference
